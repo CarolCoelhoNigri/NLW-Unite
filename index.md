@@ -2,7 +2,7 @@ fronteditor.dev/nlw-unite
 
 # HTML
   Hipertext
-  <a href= https://www.google.com/>goole.com</a>
+  <a href= https://www.google.com/>google.com</a>
 
   Markup
     * tag
