@@ -45,7 +45,7 @@ fieldset > div{
   gap: 12px;
 }
 
-.input-wrqpper{
+.input-wrapper{
   flex: 1; 
 
   display: flex;
